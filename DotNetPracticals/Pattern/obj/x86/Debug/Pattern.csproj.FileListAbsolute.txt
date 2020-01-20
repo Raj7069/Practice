@@ -1,0 +1,5 @@
+C:\Dexter\DotNetPracticals\DotNetPracticals\Pattern\bin\Debug\Pattern.exe
+C:\Dexter\DotNetPracticals\DotNetPracticals\Pattern\bin\Debug\Pattern.pdb
+C:\Dexter\DotNetPracticals\DotNetPracticals\Pattern\obj\x86\Debug\Pattern.exe
+C:\Dexter\DotNetPracticals\DotNetPracticals\Pattern\obj\x86\Debug\Pattern.pdb
+C:\Dexter\DotNetPracticals\DotNetPracticals\Pattern\obj\x86\Debug\Pattern.csprojResolveAssemblyReference.cache
